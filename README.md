@@ -1,16 +1,16 @@
 # 🧱 3D Props Portfolio
 
-Welcome to my **3D Props Portfolio** — a curated collection of my 3D models and assets created in **Blender**.  
+Welcome to my **3D Props Portfolio**  a curated collection of my 3D models and assets created in **Blender**.  
 This repository showcases my modeling, texturing, and rendering skills as part of my creative and technical journey in 3D art.
 
 ---
 
 ## 🧩 About the Project
 
-Each folder in this repository represents a **unique prop** — designed, modeled, and textured by me.  
+Each folder in this repository represents a **unique prop**  designed, modeled, and textured by me.  
 These assets highlight my attention to **detail, realism, topology optimization, and clean UV mapping**.
 
-> 🖼️ Examples include: furniture, tools, environmental props, and more — suitable for games, visualization, and animation projects.
+> 🖼️ Examples include: furniture, tools, environmental props, and more  suitable for games, visualization, and animation projects.
 
 ---
 
@@ -59,7 +59,7 @@ Stay tuned for more props being added weekly!
 ## 🖋️ Author
 
 **Kashif Hussain**  
-📧 Email: *your.email@example.com*  
+📧 Email: *kashif014hussain@gmail.com*  
 📷 ArtStation / Behance: *[Add your link]*  
 💼 GitHub: [Kashiif-Hussain](https://github.com/Kashiif-Hussain)
 
